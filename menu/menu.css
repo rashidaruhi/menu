@@ -1,0 +1,218 @@
+*{
+    background-color: rgb(50, 47, 47);
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    color:goldenrod;
+    text-align: center;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    background-color: goldenrod;
+}
+.f-1{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 22%;  
+    align-items: center;
+
+} 
+.f-1 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.image{
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+ul{
+    font-size: 25px;  
+}
+
+.f-2{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 60%;  
+    align-items: center;
+
+} 
+.f-2 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img1{
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+ul{
+    font-size: 25px;  
+}
+.f-3{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 100%;  
+    align-items: center;
+
+} 
+.f-3 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img2{
+    float: right;
+    width: 25%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+.f-4{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 142%;  
+    align-items: center;
+
+} 
+.f-4 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img3{
+    float: right;
+    width: 25%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+.f-5{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 185%;  
+    align-items: center;
+
+} 
+.f-5 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img4{
+    float: right;
+    width: 25%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+.f-6{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 230%;  
+    align-items: center;
+
+} 
+.f-6 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img5{
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+.f-7{
+    position: absolute; 
+    width: 50%; 
+    left: 5%; 
+    top: 268%;  
+    align-items: center;
+
+} 
+.f-7 h3{
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+} 
+
+.img6{
+    float: right;
+    width: 30%;
+    height: auto;
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid goldenrod;
+    align-items: center;
+}
+/* label{
+    font-size: 25px;
+    font-weight: 50px;
+    align-items: center;
+    color:chocolate;
+    
+} */
+.contact{
+    border: 5px solid black;
+    height: 230px;
+    width: 93%;
+    text-align: center;
+    background-color: rgb(50, 47, 47);
+    border-radius: 20px;
+    padding: 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+label{
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    color: goldenrod;
+    font-style: italic;
+
+}
+input{
+    border-radius: 5px;
+    color: white;
+}
+.position{
+    font-size: 20px;
+    background-color: goldenrod;
+    box-shadow: rgb(83, 75, 75);
+    border-radius: 5px;
+    font-weight: 10px;
+    font-style:normal;
+}
+.position:hover{
+    transform: scale(1.1);
+
+}
+
+
